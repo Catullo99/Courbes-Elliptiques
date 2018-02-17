@@ -1,0 +1,3 @@
+# Courbes-Elliptiques
+
+Cette repo est pour la presentation sur les courbes elliptiques qu'on doit faire; j'y ai mis des trucs, n'hésitez pas à commenter-modifier...
